@@ -4,3 +4,6 @@
 [submodule "dotact-web"]
 	path = dotact-web
 	url = https://github.com/9xDevelopers/dotact-web
+[submodule "dotact-mobile"]
+	path = dotact-mobile
+	url = https://github.com/9xDevelopers/dotact-mobile
